@@ -1,0 +1,87 @@
+body {
+    background-color: black;
+}
+
+a {
+    color: darkcyan;
+}
+
+.mike-nav {
+    color: white;
+    border-bottom: solid 1px white;
+}
+
+.FS-Dev {
+    font-family: 'Noto Serif', serif;
+    font-size: 1.5em;
+}
+
+.right-nav {
+    font-size: 1.2em;
+    font-family: 'KoHo', sans-serif;
+}
+
+#header-name {
+    height: 2em;
+    text-align: center;
+    color: white;
+    font-family: 'Oswald', sans-serif;
+    font-size: 3.5em;
+    /* border: solid 1px white; */
+}
+
+
+#midHeader {
+    border-bottom: solid .5em white;
+}
+
+#mike-img {
+    height: 16.5em;
+    width: 10em;
+    margin-bottom: 1em;
+}
+
+.mike-buttons {
+    /* margin-top: 1em; */
+    border: solid 1px white;
+}
+
+.nav-btns {
+    color: white;
+    font-size: 1.5em;
+    background-color: black;
+    /* border-left: solid white .2em; */
+}
+
+.mike-about-me {
+    margin-top: 2em;
+    color: white;
+    /* border: solid 1px white; */
+}
+
+/* body header img {
+    height: 16.5em;
+    width: 10em;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: .5em;
+} */
+
+/* body section {
+    height: 30em;
+} */
+
+.proj-title {
+    color: white;
+    margin-top: 3em;
+    margin-bottom: 1.5em;
+    /* border: solid 1px white; */
+}
+
+.mike-proj {
+    max-width: 1600px;
+    padding-bottom: 5em;
+    margin-top: 5em;
+    margin-bottom: 5em;
+    border-top: double 1.5em white;
+}
